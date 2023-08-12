@@ -26,6 +26,6 @@ export const telega = {
             Telegram.WebApp.initDataUnsafe.user.id : 0
     ),
     
-    
+    test
     
 }
